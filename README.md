@@ -1,7 +1,3 @@
-### **Hi there 👋**
+# **FlamingFire**
 
-
-Here are some ideas to get you started:
-
-- idk
--->
+- Discord Custom theme for Vencord: [link]
