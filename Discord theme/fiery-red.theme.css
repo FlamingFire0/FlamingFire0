@@ -8,16 +8,19 @@
 * @website https://betterdiscord.app/theme/Frosted%20Glass
 */
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
 :root {
---background-image: url('https://raw.githubusercontent.com/FlamingFire0/FlamingFire0/main/Discord%20theme/images/hexagone.png');
+--background-image: url('https://i.imgur.com/NHMSzX6.png');
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('https://i.imgur.com/sZug6kJ.png');
+--popout-modal-image: url('https://i.imgur.com/Rh86zJf.png');
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
---popout-modal-position: left;
---home-button-image: url('https://i.imgur.com/DDMtZdu.png');
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/ww6KKVe.png');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.8;
@@ -25,16 +28,17 @@
 --middle-brightness: 0.6;
 --right-brightness: 0;
 --popout-modal-brightness: 0.75;
---gradient-primary: 169,69,69;
---gradient-secondary: 0,0,0s;
---gradient-direction: 320deg;
---tint-colour: 255,51,159;
+--gradient-primary: 183,0,0;
+--gradient-secondary: 0,0,0;
+--gradient-direction: 106deg;
+--tint-colour: 255,0,0;
 --tint-brightness: 0;
---window-padding: 0px;
---window-roundness: 2px;
+--window-padding: 11px;
+--window-roundness: 11px;
 --scrollbar-colour: #ffffff0d;
---link-colour: #00b0f4;
+--link-colour: #F40000FF;
 --show-gift-gif-buttons: block;
 --font: 'Open Sans';
 --update-notice-1: none;
+--customFont: 'Open Sans';
 }
