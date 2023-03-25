@@ -25,8 +25,8 @@
 --middle-brightness: 0.6;
 --right-brightness: 0;
 --popout-modal-brightness: 0.75;
---gradient-primary: 103,58,183;
---gradient-secondary: 63,81,181;
+--gradient-primary: 169,69,69;
+--gradient-secondary: 0,0,0s;
 --gradient-direction: 320deg;
 --tint-colour: 255,51,159;
 --tint-brightness: 0;
@@ -35,6 +35,6 @@
 --scrollbar-colour: #ffffff0d;
 --link-colour: #00b0f4;
 --show-gift-gif-buttons: block;
---font: 'Whitney';
+--font: 'Open Sans';
 --update-notice-1: none;
 }
